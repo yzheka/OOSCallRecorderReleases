@@ -1,7 +1,7 @@
 {
-  "versionName":"1.0.2",
-  "versionCode": 4,
-  "apkUrl":"https://github.com/yzheka/OOSCallRecorderReleases/releases/download/1.0.2-test/app-debug.apk",
+  "versionName":"1.0.3",
+  "versionCode": 3,
+  "apkUrl":"https://github.com/yzheka/OOSCallRecorderReleases/releases/download/1.0.3/app-debug.apk",
   "changelog":{
     "default":"Improved setting survival across network changes, added updater",
     "ru": "Улучшено сохранение настройки после изменения сети / сим карты / режима полета, добавлен механизм обновлений приложения",
