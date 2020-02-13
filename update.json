@@ -1,10 +1,10 @@
 {
-  "versionName":"1.0.3",
-  "versionCode": 3,
-  "apkUrl":"https://github.com/yzheka/OOSCallRecorderReleases/releases/download/1.0.3/app-release.apk",
+  "versionName":"1.0.4",
+  "versionCode": 4,
+  "apkUrl":"https://github.com/yzheka/OOSCallRecorderReleases/releases/download/1.0.4/app-release.apk",
   "changelog":{
-    "default":"Improved setting survival across network changes, added updater",
-    "ru": "Улучшено сохранение настройки после изменения сети / сим карты / режима полета, добавлен механизм обновлений приложения",
-    "ua": "Покращено збереження настройки після зміни мережі / сім карти / режиму польоту, доданий механізм оновлень програми"
+    "default":"Improved setting survival across network changes, incoming call",
+    "ru": "Улучшено сохранение настройки после изменения сети / сим карты / входящего звонка",
+    "ua": "Покращено збереження настройки після зміни мережі / сім карти / вхыдного виклику"
   }
 }
